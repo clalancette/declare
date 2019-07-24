@@ -1,0 +1,3 @@
+declare:
+    ros__parameters:
+        param1: 18.0
